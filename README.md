@@ -6,7 +6,7 @@
 
 
 
-<img alt="badge" align="Left" width="5%" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="badge" align="Left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="badge rb" align="Left" src="https://img.shields.io/badge/Ruby-%23CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img alt="badge rb" align="Left" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 <img alt="badge tux" align="Left" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>

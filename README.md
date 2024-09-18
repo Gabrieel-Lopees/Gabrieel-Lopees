@@ -1,8 +1,8 @@
 <h1 align="center">Olá, meu nome é Gabriel Lopes</h1>
 <h3 align="center">Desenvolvedor e estudante da Universidade Federal de Santa Maria (UFSM)</h3>
 
-<img alt="my stats" align="Left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Gabrieel-Lopees&show_icons=true&theme=graywhite&rank_icon=github&include_all_commits=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrieel-Lopees&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img alt="my stats" align="Left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Gabrieel-Lopees&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrieel-Lopees&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="140" alt="languages graph"  />
 
 
 

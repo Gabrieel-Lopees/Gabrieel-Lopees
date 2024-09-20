@@ -11,10 +11,8 @@
 <img alt="badge python" align="Left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img alt="badge tux" align="Left" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 <img alt="badge" align="Left" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-<img alt="badge " align="Right" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
-<img alt="badge " align="Right" src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white"/>
-<img alt="badge " align="Right" src="https://img.shields.io/badge/dell-XPS%208500%20-007DB8?style=for-the-badge&logo=dell&logoColor=white"/>
-<img alt="badge " align="Right" src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
+<img alt="badge " align="Left" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+<img alt="badge " align="Left" src="https://img.shields.io/badge/dell-XPS%208500%20-007DB8?style=for-the-badge&logo=dell&logoColor=white"/>
 
 
 ##

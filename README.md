@@ -1,15 +1,21 @@
 <h1 align="center">Olá, meu nome é Gabriel Lopes</h1>
 <h3 align="center">Desenvolvedor e estudante da Universidade Federal de Santa Maria (UFSM)</h3>
 
-<img alt="my stats" align="Left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Gabrieel-Lopees&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img alt="my stats" align="Left" width="40%" src="https://github-readme-stats.vercel.app/api?username=Gabrieel-Lopees&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github&include_all_commits=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrieel-Lopees&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="140" alt="languages graph"  />
 
-
+##
 
 <img alt="badge" align="Left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="badge rb" align="Left" src="https://img.shields.io/badge/Ruby-%23CC0000.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
-<img alt="badge rb" align="Left" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+<img alt="badge python" align="Left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img alt="badge tux" align="Left" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img alt="badge" align="Left" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img alt="badge " align="Right" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+<img alt="badge " align="Right" src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white"/>
+<img alt="badge " align="Right" src="https://img.shields.io/badge/dell-XPS%208500%20-007DB8?style=for-the-badge&logo=dell&logoColor=white"/>
+<img alt="badge " align="Right" src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/>
+
 
 ##
 

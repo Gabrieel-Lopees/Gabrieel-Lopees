@@ -16,7 +16,7 @@
 
 ##
 
-<h4>Tecnologias que Uso:</h4>
+<h4>Tecnologias que uso:</h4>
 <table>
   <tr>
     <td>

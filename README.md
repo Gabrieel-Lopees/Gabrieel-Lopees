@@ -3,7 +3,7 @@
 <p align="center">💻 Apaixonado por programação, aprendizado contínuo e código limpo.</p>
 
 <div align="center">
-  <img alt="my stats" width="37.7%" src="https://github-readme-stats.vercel.app/api?username=Gabrieel-Lopees&show_icons=true&theme=graywhite&hide_border=false&rank_icon=github&include_all_commits=true"/>
+  <img alt="my stats" width="40%" src="https://github-readme-stats.vercel.app/api?username=Gabrieel-Lopees&show_icons=true&theme=graywhite&hide_border=false&rank_icon=github&include_all_commits=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrieel-Lopees&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="160" alt="languages graph" />
 </div>
 
